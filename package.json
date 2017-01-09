@@ -1,0 +1,11 @@
+{
+  "name": "my_proj",
+  "version": "1.0.0",
+  "description": "ZHANG Jie's Graduate Project",
+  "main": "index.js",
+  "scripts": {
+  	"start": "node server.js"
+  },
+  "author": "ZHANG Jie 15097486g",
+  "license": "ISC"
+}
